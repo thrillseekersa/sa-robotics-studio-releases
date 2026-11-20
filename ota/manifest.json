@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "minNativeVersionCode": 1,
+  "url": "https://thrillseekersa.github.io/sa-robotics-studio-releases/ota/sa-robotics-studio-1.0.0.zip",
+  "checksum": "17ac66104396fd619cf10ece85eed074b66b8f20446ba69afa43ae72cbab6ebf",
+  "notes": "Initial v1.0.0 public release with Over-the-Air updates, 8-inch tablet optimization & 7-Module Academy.",
+  "publishedAt": "2026-11-20T05:15:46.153Z"
+}
